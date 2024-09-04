@@ -2,8 +2,8 @@
 - 👀 I’m interested in Object oriented languages
 - 🌱 I’m currently learning computer science and engineering
 - 💞️ I’m looking to collaborate on various projects and courses with experienced and professionals
-- 📫 How to reach me ...jyothissudhakaran@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me  jyothissudhakaran@gmail.com
+- 😄 Pronouns: normal ones
 - ⚡ Fun fact about me: ... I have attended the SSB interview. And also i have completed a 15km hike.
 
 <!---
